@@ -1,0 +1,25 @@
+{
+  "name": "product-server",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/zainulabidinmuhammad40-bit/Product-Server#readme",
+  "bugs": {
+    "url": "https://github.com/zainulabidinmuhammad40-bit/Product-Server/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zainulabidinmuhammad40-bit/Product-Server.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "nodemon": "^3.1.14"
+  }
+}
